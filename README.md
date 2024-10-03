@@ -59,7 +59,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/20Engma](https://github.com/20Engma)
-- 📄 Know about me more: [https://drive.google.com/file/d/1MpKPvVHEA-D0vgcagPcmVH9vGQzD-LCv/view?usp=sharing](https://drive.google.com/file/d/1MpKPvVHEA-D0vgcagPcmVH9vGQzD-LCv/view?usp=sharing)
+- 📄 Know about me more: https://drive.google.com/file/d/1LHBvHimbBOaFTtNRfItqRe8f_QaXboup/view?usp=sharing
 - 📫 How to reach me? **althomajd@gmail.com**
 
 
