@@ -15,6 +15,13 @@
   <li>🤖 AI Intern at KAUST Academy, Thuwal, Saudi Arabia</li>
 </ul>
 
+<h3 align="left">Projects:</h3>
+<ul>
+  <li>🌟 <strong>Saudi Swift SAT</strong>: Deployed a smart satellite on the cloud using AI algorithms for environmental monitoring and blockchain for secure communications.</li>
+  <li>🌟 <strong>Serverless Application Deployment</strong>: Created a serverless application using AWS SAM and CI/CD pipeline integration to enhance delivery efficiency.</li>
+  <li>🌟 <strong>AWS DevOps CI/CD Automation</strong>: Built an automated CI/CD pipeline using AWS DevOps tools to streamline software deployment.</li>
+</ul>
+
 <h3 align="left">Certificates:</h3>
 <ul>
   <li>📜 AWS Certified Developer Associate</li>
@@ -23,7 +30,9 @@
   <li>📜 Artificial Intelligence Specialization - KAUST Academy</li>
 </ul>
 
- <tr>
+<h3 align="left">Languages and Tools:</h3>
+<table>
+  <tr>
     <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></td>
     <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></td>
     <td align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></td>
@@ -49,6 +58,6 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/20Engma](https://github.com/20Engma)
 - 📄 Know more about me: [Resume](https://shorturl.at/i05UE)
-- 📫 How to reach me? **althomajd@gmail.com || +966554530230** 
+- 📫 How to reach me? **althomajd@gmail.com || +966554530230**
 
-- ⚡ Fun fact: **Even the best engineers sometimes need help debugging their own code! 😄**
+- ⚡ Fun fact: **Did you know? Many computer engineers often joke that they can fix any computer problem—except when it’s their own computer that’s acting up! Despite their expertise, even the best engineers sometimes need a little help with their personal tech issues. 😄**
