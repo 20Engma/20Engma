@@ -1,35 +1,33 @@
-<h2 align="center">Hi 👋, I'm Majd Fahad Althobati</h2>
-<h4 align="center">🔧Computer Engineer | 🛰️Satellite | 📶Telecommunications | 🧠Artificial Intelligence</h4>
+<h2 align="center">Hi 👋, I'm Majd Fahad Althobaiti</h2>
+<h4 align="center">💻 DevOps Automation | 🌐 Cloud Developer | 🤖 Artificial Intelligence Enthusiast</h4>
 
 <h3 align="left">Education:</h3>
 <ul>
-  <li>🎓 Bachelor of Science in Computer Engineering - Taif University, Expected Graduation: May 2024</li>
+  <li>🎓 Bachelor of Science in Computer Engineering - Taif University, Expected Graduation: August 2024</li>
   <li>📚 Nanodegree in Digital Transformation and Data Science for Business Leaders - Udacity</li>
 </ul>
 
 <h3 align="left">Experience:</h3>
 <ul>
-  <li>👨‍🔧 Artificial Intelligence Intern at KAUST Academy, Thuwal, Saudi Arabia</li>
-  <li>🔧 Elevate program at SDAIA, Riyadh, Saudi Arabia</li>
-  <li>🌐 AI Summer Champions at SDAIA, Riyadh, Saudi Arabia</li>
-  <li>🌐 Forward Learners Program at McKinsey & Company</li>
+  <li>👨‍💻 AWS DevOps Engineer at Tuwaiq Academy, Riyadh, Saudi Arabia</li>
+  <li>☁️ AWS Cloud Intern at the Ministry of Communications and Information Technology, Riyadh, Saudi Arabia</li>
+  <li>🚀 GCP Cloud Intern at SDAIA Elevate Program, Riyadh, Saudi Arabia</li>
+  <li>🤖 AI Intern at KAUST Academy, Thuwal, Saudi Arabia</li>
 </ul>
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>🌟 <strong>Saudi Swift SAT</strong>: Developed a smart satellite with AI algorithms for environmental monitoring and blockchain for secure data transfer.</li>
-  <li>🌟 <strong>Genetic Algorithm for Optimizing Wireless Communications</strong>: Enhanced the FSPL model using a genetic algorithm for better path loss predictions.</li>
-  <li>🌟 <strong>Rock-VS-Mine-Prediction-submarine</strong>: Created a model to help naval submarines identify natural obstacles or sea mines.</li>
-  <li>🌟 <strong>Smart-Mirror</strong>: Built a mirror that displays real-time weather, news, and calendar information.</li>
+  <li>🌟 <strong>Saudi Swift SAT</strong>: Deployed a smart satellite on the cloud using AI algorithms for environmental monitoring and blockchain for secure communications.</li>
+  <li>🌟 <strong>Serverless Application Deployment</strong>: Created a serverless application using AWS SAM and CI/CD pipeline integration to enhance delivery efficiency.</li>
+  <li>🌟 <strong>AWS DevOps CI/CD Automation</strong>: Built an automated CI/CD pipeline using AWS DevOps tools to streamline software deployment.</li>
 </ul>
 
 <h3 align="left">Certificates:</h3>
 <ul>
-  <li>📜 Oracle Cloud Infrastructure 2023 Certified Foundations Associate</li>
-  <li>📜 AI Foundations for Everyone</li>
-  <li>📜 Advanced Artificial Intelligence course - KAUST Academy</li>
-  <li>📜 Mathematics for Machine Learning and Data Science</li>
-  <li>📜 Introduction to Artificial Intelligence - KAUST Academy</li>
+  <li>📜 AWS Certified Developer Associate</li>
+  <li>📜 AWS Certified Cloud Practitioner</li>
+  <li>📜 Oracle Cloud Infrastructure Associate</li>
+  <li>📜 Artificial Intelligence Specialization - KAUST Academy</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,14 +53,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/majd050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/majd050" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/majd050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/majd050" height="30" width="40" /></a>
 </p>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/20Engma](https://github.com/20Engma)
-- 📄 Know about me more: https://drive.google.com/file/d/1LHBvHimbBOaFTtNRfItqRe8f_QaXboup/view?usp=sharing
-- 📫 How to reach me? **althomajd@gmail.com**
+- 📄 Know more about me: [Resume](https://shorturl.at/i05UE)
+- 📫 How to reach me? **althomajd@gmail.com || +966554530230** 
 
-
-
-
-- ⚡ Fun fact: **Did you know? Many computer engineers often joke that they can fix any computer problem—except when it’s their own computer that’s acting up! Despite their expertise, even the best engineers sometimes need a little help with their personal tech issues. 😄**
+- ⚡ Fun fact: **Even the best engineers sometimes need help debugging their own code! 😄**
