@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Majd Fahad Althobaiti</h2>
-<h4 align="center">💻 DevOps Automation | 🌐 Cloud Developer | 🤖 Artificial Intelligence Enthusiast</h4>
+<h4 align="center">💻 DevOps Automation | 🌐 Cloud Developer | 🤖 Artificial Intelligence </h4>
 
 <h3 align="left">Education:</h3>
 <ul>
@@ -13,13 +13,6 @@
   <li>☁️ AWS Cloud Intern at the Ministry of Communications and Information Technology, Riyadh, Saudi Arabia</li>
   <li>🚀 GCP Cloud Intern at SDAIA Elevate Program, Riyadh, Saudi Arabia</li>
   <li>🤖 AI Intern at KAUST Academy, Thuwal, Saudi Arabia</li>
-</ul>
-
-<h3 align="left">Projects:</h3>
-<ul>
-  <li>🌟 <strong>Saudi Swift SAT</strong>: Deployed a smart satellite on the cloud using AI algorithms for environmental monitoring and blockchain for secure communications.</li>
-  <li>🌟 <strong>Serverless Application Deployment</strong>: Created a serverless application using AWS SAM and CI/CD pipeline integration to enhance delivery efficiency.</li>
-  <li>🌟 <strong>AWS DevOps CI/CD Automation</strong>: Built an automated CI/CD pipeline using AWS DevOps tools to streamline software deployment.</li>
 </ul>
 
 <h3 align="left">Certificates:</h3>
