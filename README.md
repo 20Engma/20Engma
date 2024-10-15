@@ -17,7 +17,7 @@ Here's the updated version with the additional projects you mentioned:
   <li>☁️ AWS Cloud Intern at the Ministry of Communications and Information Technology, Riyadh, Saudi Arabia</li>  
   <li>🚀 GCP Cloud Intern at SDAIA Elevate Program, Riyadh, Saudi Arabia</li>  
   <li>🤖 AI Intern at KAUST Academy, Thuwal, Saudi Arabia</li>  
-  <li>✈️ **Trainee at King Fahd Air Base** - BAE Systems, Typhoon Aircraft Support Department: Assisted with technical support operations for Typhoon aircraft, gaining valuable experience in network, server, and aircraft system maintenance.</li>  
+  <li>✈️ Trainee at King Fahd Air Base - BAE Systems, Typhoon Aircraft Support Department: Assisted with technical support operations for Typhoon aircraft.</li>  
 </ul>  
 
 <h3 align="left">Projects:</h3>  
