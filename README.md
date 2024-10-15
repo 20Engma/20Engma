@@ -1,5 +1,7 @@
+
+
 <h2 align="center">Hi 👋, I'm Majd Fahad Althobaiti</h2>
-<h4 align="center">💻 DevOps Automation | 🌐 Cloud Developer | 🤖 Artificial Intelligence </h4>
+<h4 align="center">💻 DevOps Automation | 🌐 Cloud Developer | 🤖 Artificial Intelligence | 🛰️ Satellite & Telecommunication</h4>
 
 <h3 align="left">Education:</h3>
 <ul>
@@ -49,6 +51,10 @@
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a></td>
     <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a></td>
+    <td align="center"><a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/AutoCAD_logo.png" alt="autocad" width="40" height="40"/> </a></td>
+  </tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
@@ -60,4 +66,5 @@
 - 📄 Know more about me: [Resume](https://shorturl.at/i05UE)
 - 📫 How to reach me? **althomajd@gmail.com || +966554530230**
 
-- ⚡ Fun fact: **Did you know? Many computer engineers often joke that they can fix any computer problem—except when it’s their own computer that’s acting up! Despite their expertise, even the best engineers sometimes need a little help with their personal tech issues. 😄**
+- ⚡ Fun fact: **Even computer engineers like myself, who work with high-tech solutions like satellite systems and wireless communications, often joke that we can fix any computer problem—except when it’s our own! 😄**
+
